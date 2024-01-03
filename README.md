@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 <br>
 
-[![bbbangduk9's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbangduk9&include_all_commits=true&theme=merko&hide_border=true&count_private=true)](https://github.com/bbbangduk9/github-readme-stats)
+[![bbbangduk9's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbbangduk9&include_all_commits=true&theme=merko&hide_border=true&count_private=true)](https://github.com/bbbangduk9/github-readme-stats)
